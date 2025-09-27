@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0830-largest-triangle-area](https://github.com/thasneem04/LeetCode/tree/master/0830-largest-triangle-area) |
+| [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/thasneem04/LeetCode/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1610-xor-operation-in-an-array](https://github.com/thasneem04/LeetCode/tree/master/1610-xor-operation-in-an-array) |
 | [1635-number-of-good-pairs](https://github.com/thasneem04/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [2383-add-two-integers](https://github.com/thasneem04/LeetCode/tree/master/2383-add-two-integers) |
