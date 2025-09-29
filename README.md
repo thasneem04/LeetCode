@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1610-xor-operation-in-an-array](https://github.com/thasneem04/LeetCode/tree/master/1610-xor-operation-in-an-array) |
 | [1635-number-of-good-pairs](https://github.com/thasneem04/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [2383-add-two-integers](https://github.com/thasneem04/LeetCode/tree/master/2383-add-two-integers) |
+| [2491-smallest-even-multiple](https://github.com/thasneem04/LeetCode/tree/master/2491-smallest-even-multiple) |
 | [2556-convert-the-temperature](https://github.com/thasneem04/LeetCode/tree/master/2556-convert-the-temperature) |
 | [2608-count-the-digits-that-divide-a-number](https://github.com/thasneem04/LeetCode/tree/master/2608-count-the-digits-that-divide-a-number) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/thasneem04/LeetCode/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/thasneem04/LeetCode/tree/master/0258-add-digits) |
+| [2491-smallest-even-multiple](https://github.com/thasneem04/LeetCode/tree/master/2491-smallest-even-multiple) |
 ## Brainteaser
 |  |
 | ------- |
