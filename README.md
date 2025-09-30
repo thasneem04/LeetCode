@@ -44,10 +44,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/thasneem04/LeetCode/tree/master/0013-roman-to-integer) |
 | [1635-number-of-good-pairs](https://github.com/thasneem04/LeetCode/tree/master/1635-number-of-good-pairs) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/thasneem04/LeetCode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Counting
 |  |
 | ------- |
 | [1635-number-of-good-pairs](https://github.com/thasneem04/LeetCode/tree/master/1635-number-of-good-pairs) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/thasneem04/LeetCode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -58,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/thasneem04/LeetCode/tree/master/0013-roman-to-integer) |
 | [0412-fizz-buzz](https://github.com/thasneem04/LeetCode/tree/master/0412-fizz-buzz) |
 | [1944-truncate-sentence](https://github.com/thasneem04/LeetCode/tree/master/1944-truncate-sentence) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/thasneem04/LeetCode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Simulation
 |  |
 | ------- |
