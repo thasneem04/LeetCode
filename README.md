@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1580-shuffle-the-array](https://github.com/thasneem04/LeetCode/tree/master/1580-shuffle-the-array) |
 | [1635-number-of-good-pairs](https://github.com/thasneem04/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [1944-truncate-sentence](https://github.com/thasneem04/LeetCode/tree/master/1944-truncate-sentence) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/thasneem04/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2048-build-array-from-permutation](https://github.com/thasneem04/LeetCode/tree/master/2048-build-array-from-permutation) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/thasneem04/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/thasneem04/LeetCode/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1610-xor-operation-in-an-array](https://github.com/thasneem04/LeetCode/tree/master/1610-xor-operation-in-an-array) |
 | [1635-number-of-good-pairs](https://github.com/thasneem04/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [1642-water-bottles](https://github.com/thasneem04/LeetCode/tree/master/1642-water-bottles) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/thasneem04/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2383-add-two-integers](https://github.com/thasneem04/LeetCode/tree/master/2383-add-two-integers) |
 | [2491-smallest-even-multiple](https://github.com/thasneem04/LeetCode/tree/master/2491-smallest-even-multiple) |
 | [2556-convert-the-temperature](https://github.com/thasneem04/LeetCode/tree/master/2556-convert-the-temperature) |
@@ -59,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1610-xor-operation-in-an-array](https://github.com/thasneem04/LeetCode/tree/master/1610-xor-operation-in-an-array) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/thasneem04/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 ## String
 |  |
 | ------- |
@@ -105,4 +108,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/thasneem04/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Backtracking
+|  |
+| ------- |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/thasneem04/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
+## Combinatorics
+|  |
+| ------- |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/thasneem04/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
+## Enumeration
+|  |
+| ------- |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/thasneem04/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 <!---LeetCode Topics End-->
