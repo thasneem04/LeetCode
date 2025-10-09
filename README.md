@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/thasneem04/LeetCode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/thasneem04/LeetCode/tree/master/0013-roman-to-integer) |
+| [0231-power-of-two](https://github.com/thasneem04/LeetCode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/thasneem04/LeetCode/tree/master/0258-add-digits) |
 | [0292-nim-game](https://github.com/thasneem04/LeetCode/tree/master/0292-nim-game) |
 | [0412-fizz-buzz](https://github.com/thasneem04/LeetCode/tree/master/0412-fizz-buzz) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/thasneem04/LeetCode/tree/master/0231-power-of-two) |
 | [1610-xor-operation-in-an-array](https://github.com/thasneem04/LeetCode/tree/master/1610-xor-operation-in-an-array) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/thasneem04/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 ## String
@@ -127,4 +129,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/thasneem04/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/thasneem04/LeetCode/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
