@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/thasneem04/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/thasneem04/LeetCode/tree/master/0027-remove-element) |
+| [0066-plus-one](https://github.com/thasneem04/LeetCode/tree/master/0066-plus-one) |
 | [0136-single-number](https://github.com/thasneem04/LeetCode/tree/master/0136-single-number) |
 | [0830-largest-triangle-area](https://github.com/thasneem04/LeetCode/tree/master/0830-largest-triangle-area) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/thasneem04/LeetCode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/thasneem04/LeetCode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/thasneem04/LeetCode/tree/master/0013-roman-to-integer) |
+| [0066-plus-one](https://github.com/thasneem04/LeetCode/tree/master/0066-plus-one) |
 | [0231-power-of-two](https://github.com/thasneem04/LeetCode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/thasneem04/LeetCode/tree/master/0258-add-digits) |
 | [0292-nim-game](https://github.com/thasneem04/LeetCode/tree/master/0292-nim-game) |
