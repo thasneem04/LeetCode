@@ -137,4 +137,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0231-power-of-two](https://github.com/thasneem04/LeetCode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/thasneem04/LeetCode/tree/master/0326-power-of-three) |
+## Linked List
+|  |
+| ------- |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/thasneem04/LeetCode/tree/master/0083-remove-duplicates-from-sorted-list) |
 <!---LeetCode Topics End-->
