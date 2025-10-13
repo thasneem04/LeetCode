@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/thasneem04/LeetCode/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/thasneem04/LeetCode/tree/master/0231-power-of-two) |
+| [0338-counting-bits](https://github.com/thasneem04/LeetCode/tree/master/0338-counting-bits) |
 | [1610-xor-operation-in-an-array](https://github.com/thasneem04/LeetCode/tree/master/1610-xor-operation-in-an-array) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/thasneem04/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 ## String
@@ -146,4 +147,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/thasneem04/LeetCode/tree/master/0083-remove-duplicates-from-sorted-list) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0338-counting-bits](https://github.com/thasneem04/LeetCode/tree/master/0338-counting-bits) |
 <!---LeetCode Topics End-->
