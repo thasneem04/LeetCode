@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2048-build-array-from-permutation](https://github.com/thasneem04/LeetCode/tree/master/2048-build-array-from-permutation) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/thasneem04/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/thasneem04/LeetCode/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
+| [2714-left-and-right-sum-differences](https://github.com/thasneem04/LeetCode/tree/master/2714-left-and-right-sum-differences) |
 | [3321-type-of-triangle](https://github.com/thasneem04/LeetCode/tree/master/3321-type-of-triangle) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/thasneem04/LeetCode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3778-transform-array-by-parity](https://github.com/thasneem04/LeetCode/tree/master/3778-transform-array-by-parity) |
@@ -164,4 +165,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/thasneem04/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+## Prefix Sum
+|  |
+| ------- |
+| [2714-left-and-right-sum-differences](https://github.com/thasneem04/LeetCode/tree/master/2714-left-and-right-sum-differences) |
 <!---LeetCode Topics End-->
