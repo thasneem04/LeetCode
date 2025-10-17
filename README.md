@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/thasneem04/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [3379-score-of-a-string](https://github.com/thasneem04/LeetCode/tree/master/3379-score-of-a-string) |
 | [3567-convert-date-to-binary](https://github.com/thasneem04/LeetCode/tree/master/3567-convert-date-to-binary) |
+| [3811-reverse-degree-of-a-string](https://github.com/thasneem04/LeetCode/tree/master/3811-reverse-degree-of-a-string) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/thasneem04/LeetCode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Simulation
 |  |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1642-water-bottles](https://github.com/thasneem04/LeetCode/tree/master/1642-water-bottles) |
 | [2048-build-array-from-permutation](https://github.com/thasneem04/LeetCode/tree/master/2048-build-array-from-permutation) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/thasneem04/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [3811-reverse-degree-of-a-string](https://github.com/thasneem04/LeetCode/tree/master/3811-reverse-degree-of-a-string) |
 ## Number Theory
 |  |
 | ------- |
