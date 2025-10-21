@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/thasneem04/LeetCode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/thasneem04/LeetCode/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/thasneem04/LeetCode/tree/master/0066-plus-one) |
+| [0069-sqrtx](https://github.com/thasneem04/LeetCode/tree/master/0069-sqrtx) |
 | [0231-power-of-two](https://github.com/thasneem04/LeetCode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/thasneem04/LeetCode/tree/master/0258-add-digits) |
 | [0292-nim-game](https://github.com/thasneem04/LeetCode/tree/master/0292-nim-game) |
@@ -196,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/thasneem04/LeetCode/tree/master/0069-sqrtx) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/thasneem04/LeetCode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Greedy
 |  |
