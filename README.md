@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/thasneem04/LeetCode/tree/master/0268-missing-number) |
 | [0292-nim-game](https://github.com/thasneem04/LeetCode/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/thasneem04/LeetCode/tree/master/0326-power-of-three) |
+| [0367-valid-perfect-square](https://github.com/thasneem04/LeetCode/tree/master/0367-valid-perfect-square) |
 | [0412-fizz-buzz](https://github.com/thasneem04/LeetCode/tree/master/0412-fizz-buzz) |
 | [0830-largest-triangle-area](https://github.com/thasneem04/LeetCode/tree/master/0830-largest-triangle-area) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/thasneem04/LeetCode/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
@@ -231,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/thasneem04/LeetCode/tree/master/0069-sqrtx) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/thasneem04/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/thasneem04/LeetCode/tree/master/0268-missing-number) |
+| [0367-valid-perfect-square](https://github.com/thasneem04/LeetCode/tree/master/0367-valid-perfect-square) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/thasneem04/LeetCode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Greedy
 |  |
