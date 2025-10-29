@@ -2,30 +2,27 @@ import java.util.*;
 
 public class Solution {
     public String[] uncommonFromSentences(String s1, String s2) {
+        Map<String, Integer> countMap = new HashMap<>();
 
-        // Step 1: Combine both sentences
-        String combined = s1 + " " + s2;
-
-        // Step 2: Split the combined sentence into words
-        String[] words = combined.split(" ");
-
-        // Step 3: Create a HashMap to count each word
-        Map<String, Integer> count = new HashMap<>();
-
-        for (String w : words) {
-            count.put(w, count.getOrDefault(w, 0) + 1);
+        // count words in s1
+        for (String w : s1.split(" ")) {
+            countMap.put(w, countMap.getOrDefault(w, 0) + 1);
         }
 
-        // Step 4: Collect words that appear only once
-        List<String> result = new ArrayList<>();
+        // count words in s2
+        for (String w : s2.split(" ")) {
+            countMap.put(w, countMap.getOrDefault(w, 0) + 1);
+        }
 
-        for (String w : count.keySet()) {
-            if (count.get(w) == 1) {
-                result.add(w);
+        // collect uncommon words (count == 1)
+        List<String> result = new ArrayList<>();
+        for (Map.Entry<String, Integer> entry : countMap.entrySet()) {
+            if (entry.getValue() == 1) {
+                result.add(entry.getKey());
             }
         }
 
-        // Step 5: Convert list to array and return
+        // convert to array and return
         return result.toArray(new String[0]);
     }
 }
