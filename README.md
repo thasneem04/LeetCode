@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/thasneem04/LeetCode/tree/master/0412-fizz-buzz) |
 | [0507-perfect-number](https://github.com/thasneem04/LeetCode/tree/master/0507-perfect-number) |
 | [0830-largest-triangle-area](https://github.com/thasneem04/LeetCode/tree/master/0830-largest-triangle-area) |
+| [1013-fibonacci-number](https://github.com/thasneem04/LeetCode/tree/master/1013-fibonacci-number) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/thasneem04/LeetCode/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1610-xor-operation-in-an-array](https://github.com/thasneem04/LeetCode/tree/master/1610-xor-operation-in-an-array) |
 | [1635-number-of-good-pairs](https://github.com/thasneem04/LeetCode/tree/master/1635-number-of-good-pairs) |
@@ -211,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/thasneem04/LeetCode/tree/master/0002-add-two-numbers) |
 | [0231-power-of-two](https://github.com/thasneem04/LeetCode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/thasneem04/LeetCode/tree/master/0326-power-of-three) |
+| [1013-fibonacci-number](https://github.com/thasneem04/LeetCode/tree/master/1013-fibonacci-number) |
 ## Linked List
 |  |
 | ------- |
@@ -221,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0338-counting-bits](https://github.com/thasneem04/LeetCode/tree/master/0338-counting-bits) |
+| [1013-fibonacci-number](https://github.com/thasneem04/LeetCode/tree/master/1013-fibonacci-number) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/thasneem04/LeetCode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 ## Counting Sort
 |  |
@@ -258,4 +261,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/thasneem04/LeetCode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
+## Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/thasneem04/LeetCode/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
