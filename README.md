@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2048-build-array-from-permutation](https://github.com/thasneem04/LeetCode/tree/master/2048-build-array-from-permutation) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/thasneem04/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/thasneem04/LeetCode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
+| [2454-largest-local-values-in-a-matrix](https://github.com/thasneem04/LeetCode/tree/master/2454-largest-local-values-in-a-matrix) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/thasneem04/LeetCode/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2714-left-and-right-sum-differences](https://github.com/thasneem04/LeetCode/tree/master/2714-left-and-right-sum-differences) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/thasneem04/LeetCode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
@@ -265,4 +266,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1013-fibonacci-number](https://github.com/thasneem04/LeetCode/tree/master/1013-fibonacci-number) |
+## Matrix
+|  |
+| ------- |
+| [2454-largest-local-values-in-a-matrix](https://github.com/thasneem04/LeetCode/tree/master/2454-largest-local-values-in-a-matrix) |
 <!---LeetCode Topics End-->
