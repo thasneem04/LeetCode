@@ -220,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/thasneem04/LeetCode/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/thasneem04/LeetCode/tree/master/0021-merge-two-sorted-lists) |
+| [0024-swap-nodes-in-pairs](https://github.com/thasneem04/LeetCode/tree/master/0024-swap-nodes-in-pairs) |
 | [0231-power-of-two](https://github.com/thasneem04/LeetCode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/thasneem04/LeetCode/tree/master/0326-power-of-three) |
 | [1013-fibonacci-number](https://github.com/thasneem04/LeetCode/tree/master/1013-fibonacci-number) |
@@ -228,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/thasneem04/LeetCode/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/thasneem04/LeetCode/tree/master/0021-merge-two-sorted-lists) |
+| [0024-swap-nodes-in-pairs](https://github.com/thasneem04/LeetCode/tree/master/0024-swap-nodes-in-pairs) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/thasneem04/LeetCode/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/thasneem04/LeetCode/tree/master/0141-linked-list-cycle) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/thasneem04/LeetCode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
