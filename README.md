@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/thasneem04/LeetCode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/thasneem04/LeetCode/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/thasneem04/LeetCode/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/thasneem04/LeetCode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/thasneem04/LeetCode/tree/master/0069-sqrtx) |
 | [0168-excel-sheet-column-title](https://github.com/thasneem04/LeetCode/tree/master/0168-excel-sheet-column-title) |
 | [0231-power-of-two](https://github.com/thasneem04/LeetCode/tree/master/0231-power-of-two) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/thasneem04/LeetCode/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/thasneem04/LeetCode/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/thasneem04/LeetCode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/thasneem04/LeetCode/tree/master/0268-missing-number) |
@@ -130,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/thasneem04/LeetCode/tree/master/0013-roman-to-integer) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/thasneem04/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/thasneem04/LeetCode/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/thasneem04/LeetCode/tree/master/0067-add-binary) |
 | [0168-excel-sheet-column-title](https://github.com/thasneem04/LeetCode/tree/master/0168-excel-sheet-column-title) |
 | [0412-fizz-buzz](https://github.com/thasneem04/LeetCode/tree/master/0412-fizz-buzz) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/thasneem04/LeetCode/tree/master/0920-uncommon-words-from-two-sentences) |
@@ -149,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/thasneem04/LeetCode/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/thasneem04/LeetCode/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/thasneem04/LeetCode/tree/master/0412-fizz-buzz) |
 | [1642-water-bottles](https://github.com/thasneem04/LeetCode/tree/master/1642-water-bottles) |
