@@ -310,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Database
 |  |
 | ------- |
+| [0175-combine-two-tables](https://github.com/thasneem04/LeetCode/tree/master/0175-combine-two-tables) |
 | [1153-product-sales-analysis-i](https://github.com/thasneem04/LeetCode/tree/master/1153-product-sales-analysis-i) |
 | [1892-find-total-time-spent-by-each-employee](https://github.com/thasneem04/LeetCode/tree/master/1892-find-total-time-spent-by-each-employee) |
 | [2495-number-of-unique-subjects-taught-by-each-teacher](https://github.com/thasneem04/LeetCode/tree/master/2495-number-of-unique-subjects-taught-by-each-teacher) |
