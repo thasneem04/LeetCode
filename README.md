@@ -319,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1245-user-activity-for-the-past-30-days-i](https://github.com/thasneem04/LeetCode/tree/master/1245-user-activity-for-the-past-30-days-i) |
 | [1317-monthly-transactions-i](https://github.com/thasneem04/LeetCode/tree/master/1317-monthly-transactions-i) |
 | [1415-students-and-examinations](https://github.com/thasneem04/LeetCode/tree/master/1415-students-and-examinations) |
+| [1480-movie-rating](https://github.com/thasneem04/LeetCode/tree/master/1480-movie-rating) |
 | [1892-find-total-time-spent-by-each-employee](https://github.com/thasneem04/LeetCode/tree/master/1892-find-total-time-spent-by-each-employee) |
 | [2495-number-of-unique-subjects-taught-by-each-teacher](https://github.com/thasneem04/LeetCode/tree/master/2495-number-of-unique-subjects-taught-by-each-teacher) |
 <!---LeetCode Topics End-->
