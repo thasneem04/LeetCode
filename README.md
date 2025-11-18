@@ -302,14 +302,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/thasneem04/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0975-range-sum-of-bst](https://github.com/thasneem04/LeetCode/tree/master/0975-range-sum-of-bst) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/thasneem04/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0975-range-sum-of-bst](https://github.com/thasneem04/LeetCode/tree/master/0975-range-sum-of-bst) |
 ## Binary Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/thasneem04/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0975-range-sum-of-bst](https://github.com/thasneem04/LeetCode/tree/master/0975-range-sum-of-bst) |
 ## Database
 |  |
 | ------- |
@@ -323,4 +326,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-movie-rating](https://github.com/thasneem04/LeetCode/tree/master/1480-movie-rating) |
 | [1892-find-total-time-spent-by-each-employee](https://github.com/thasneem04/LeetCode/tree/master/1892-find-total-time-spent-by-each-employee) |
 | [2495-number-of-unique-subjects-taught-by-each-teacher](https://github.com/thasneem04/LeetCode/tree/master/2495-number-of-unique-subjects-taught-by-each-teacher) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0975-range-sum-of-bst](https://github.com/thasneem04/LeetCode/tree/master/0975-range-sum-of-bst) |
 <!---LeetCode Topics End-->
