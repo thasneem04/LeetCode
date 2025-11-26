@@ -329,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0178-rank-scores](https://github.com/thasneem04/LeetCode/tree/master/0178-rank-scores) |
 | [0180-consecutive-numbers](https://github.com/thasneem04/LeetCode/tree/master/0180-consecutive-numbers) |
 | [0262-trips-and-users](https://github.com/thasneem04/LeetCode/tree/master/0262-trips-and-users) |
+| [0585-investments-in-2016](https://github.com/thasneem04/LeetCode/tree/master/0585-investments-in-2016) |
 | [0596-classes-with-at-least-5-students](https://github.com/thasneem04/LeetCode/tree/master/0596-classes-with-at-least-5-students) |
 | [0608-tree-node](https://github.com/thasneem04/LeetCode/tree/master/0608-tree-node) |
 | [1153-product-sales-analysis-i](https://github.com/thasneem04/LeetCode/tree/master/1153-product-sales-analysis-i) |
