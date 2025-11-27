@@ -334,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0585-investments-in-2016](https://github.com/thasneem04/LeetCode/tree/master/0585-investments-in-2016) |
 | [0596-classes-with-at-least-5-students](https://github.com/thasneem04/LeetCode/tree/master/0596-classes-with-at-least-5-students) |
 | [0608-tree-node](https://github.com/thasneem04/LeetCode/tree/master/0608-tree-node) |
+| [1070-product-sales-analysis-iii](https://github.com/thasneem04/LeetCode/tree/master/1070-product-sales-analysis-iii) |
 | [1153-product-sales-analysis-i](https://github.com/thasneem04/LeetCode/tree/master/1153-product-sales-analysis-i) |
 | [1245-user-activity-for-the-past-30-days-i](https://github.com/thasneem04/LeetCode/tree/master/1245-user-activity-for-the-past-30-days-i) |
 | [1317-monthly-transactions-i](https://github.com/thasneem04/LeetCode/tree/master/1317-monthly-transactions-i) |
