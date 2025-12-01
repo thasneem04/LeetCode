@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/thasneem04/LeetCode/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/thasneem04/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/thasneem04/LeetCode/tree/master/0136-single-number) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/thasneem04/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/thasneem04/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0217-contains-duplicate](https://github.com/thasneem04/LeetCode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/thasneem04/LeetCode/tree/master/0268-missing-number) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/thasneem04/LeetCode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/thasneem04/LeetCode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/thasneem04/LeetCode/tree/master/0069-sqrtx) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/thasneem04/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0168-excel-sheet-column-title](https://github.com/thasneem04/LeetCode/tree/master/0168-excel-sheet-column-title) |
 | [0231-power-of-two](https://github.com/thasneem04/LeetCode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/thasneem04/LeetCode/tree/master/0258-add-digits) |
@@ -286,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/thasneem04/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/thasneem04/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [1441-build-an-array-with-stack-operations](https://github.com/thasneem04/LeetCode/tree/master/1441-build-an-array-with-stack-operations) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/thasneem04/LeetCode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [2128-reverse-prefix-of-word](https://github.com/thasneem04/LeetCode/tree/master/2128-reverse-prefix-of-word) |
