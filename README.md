@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3321-type-of-triangle](https://github.com/thasneem04/LeetCode/tree/master/3321-type-of-triangle) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/thasneem04/LeetCode/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/thasneem04/LeetCode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/thasneem04/LeetCode/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/thasneem04/LeetCode/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/thasneem04/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3583-count-special-triplets](https://github.com/thasneem04/LeetCode/tree/master/3583-count-special-triplets) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3432-count-partitions-with-even-sum-difference](https://github.com/thasneem04/LeetCode/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/thasneem04/LeetCode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3567-convert-date-to-binary](https://github.com/thasneem04/LeetCode/tree/master/3567-convert-date-to-binary) |
+| [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/thasneem04/LeetCode/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/thasneem04/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3623-count-number-of-trapezoids-i](https://github.com/thasneem04/LeetCode/tree/master/3623-count-number-of-trapezoids-i) |
 | [3625-count-number-of-trapezoids-ii](https://github.com/thasneem04/LeetCode/tree/master/3625-count-number-of-trapezoids-ii) |
@@ -218,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0292-nim-game](https://github.com/thasneem04/LeetCode/tree/master/0292-nim-game) |
 | [2481-strictly-palindromic-number](https://github.com/thasneem04/LeetCode/tree/master/2481-strictly-palindromic-number) |
+| [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/thasneem04/LeetCode/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 ## Game Theory
 |  |
 | ------- |
@@ -262,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/thasneem04/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/thasneem04/LeetCode/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/thasneem04/LeetCode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Enumeration
 |  |
