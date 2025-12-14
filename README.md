@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/thasneem04/LeetCode/tree/master/1693-sum-of-all-odd-length-subarrays) |
 | [1925-count-square-sum-triples](https://github.com/thasneem04/LeetCode/tree/master/1925-count-square-sum-triples) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/thasneem04/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/thasneem04/LeetCode/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2383-add-two-integers](https://github.com/thasneem04/LeetCode/tree/master/2383-add-two-integers) |
 | [2481-strictly-palindromic-number](https://github.com/thasneem04/LeetCode/tree/master/2481-strictly-palindromic-number) |
 | [2491-smallest-even-multiple](https://github.com/thasneem04/LeetCode/tree/master/2491-smallest-even-multiple) |
@@ -189,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1970-sorting-the-sentence](https://github.com/thasneem04/LeetCode/tree/master/1970-sorting-the-sentence) |
 | [2128-reverse-prefix-of-word](https://github.com/thasneem04/LeetCode/tree/master/2128-reverse-prefix-of-word) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/thasneem04/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/thasneem04/LeetCode/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2211-count-collisions-on-a-road](https://github.com/thasneem04/LeetCode/tree/master/2211-count-collisions-on-a-road) |
 | [3379-score-of-a-string](https://github.com/thasneem04/LeetCode/tree/master/3379-score-of-a-string) |
 | [3412-permutation-difference-between-two-strings](https://github.com/thasneem04/LeetCode/tree/master/3412-permutation-difference-between-two-strings) |
@@ -304,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0338-counting-bits](https://github.com/thasneem04/LeetCode/tree/master/0338-counting-bits) |
 | [1013-fibonacci-number](https://github.com/thasneem04/LeetCode/tree/master/1013-fibonacci-number) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/thasneem04/LeetCode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
+| [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/thasneem04/LeetCode/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/thasneem04/LeetCode/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 ## Counting Sort
 |  |
