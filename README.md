@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/thasneem04/LeetCode/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2714-left-and-right-sum-differences](https://github.com/thasneem04/LeetCode/tree/master/2714-left-and-right-sum-differences) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/thasneem04/LeetCode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
+| [3074-apple-redistribution-into-boxes](https://github.com/thasneem04/LeetCode/tree/master/3074-apple-redistribution-into-boxes) |
 | [3321-type-of-triangle](https://github.com/thasneem04/LeetCode/tree/master/3321-type-of-triangle) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/thasneem04/LeetCode/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3433-count-mentions-per-user](https://github.com/thasneem04/LeetCode/tree/master/3433-count-mentions-per-user) |
@@ -253,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2141-maximum-running-time-of-n-computers](https://github.com/thasneem04/LeetCode/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/thasneem04/LeetCode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/thasneem04/LeetCode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
+| [3074-apple-redistribution-into-boxes](https://github.com/thasneem04/LeetCode/tree/master/3074-apple-redistribution-into-boxes) |
 | [3321-type-of-triangle](https://github.com/thasneem04/LeetCode/tree/master/3321-type-of-triangle) |
 | [3433-count-mentions-per-user](https://github.com/thasneem04/LeetCode/tree/master/3433-count-mentions-per-user) |
 | [3606-coupon-code-validator](https://github.com/thasneem04/LeetCode/tree/master/3606-coupon-code-validator) |
@@ -366,6 +368,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/thasneem04/LeetCode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/thasneem04/LeetCode/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/thasneem04/LeetCode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
+| [3074-apple-redistribution-into-boxes](https://github.com/thasneem04/LeetCode/tree/master/3074-apple-redistribution-into-boxes) |
 ## Monotonic Stack
 |  |
 | ------- |
