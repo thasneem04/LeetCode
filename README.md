@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/thasneem04/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/thasneem04/LeetCode/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/thasneem04/LeetCode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
+| [2402-meeting-rooms-iii](https://github.com/thasneem04/LeetCode/tree/master/2402-meeting-rooms-iii) |
 | [2454-largest-local-values-in-a-matrix](https://github.com/thasneem04/LeetCode/tree/master/2454-largest-local-values-in-a-matrix) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/thasneem04/LeetCode/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2714-left-and-right-sum-differences](https://github.com/thasneem04/LeetCode/tree/master/2714-left-and-right-sum-differences) |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/thasneem04/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/thasneem04/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1635-number-of-good-pairs](https://github.com/thasneem04/LeetCode/tree/master/1635-number-of-good-pairs) |
+| [2402-meeting-rooms-iii](https://github.com/thasneem04/LeetCode/tree/master/2402-meeting-rooms-iii) |
 | [3412-permutation-difference-between-two-strings](https://github.com/thasneem04/LeetCode/tree/master/3412-permutation-difference-between-two-strings) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/thasneem04/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3583-count-special-triplets](https://github.com/thasneem04/LeetCode/tree/master/3583-count-special-triplets) |
@@ -221,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2058-concatenation-of-array](https://github.com/thasneem04/LeetCode/tree/master/2058-concatenation-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/thasneem04/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2211-count-collisions-on-a-road](https://github.com/thasneem04/LeetCode/tree/master/2211-count-collisions-on-a-road) |
+| [2402-meeting-rooms-iii](https://github.com/thasneem04/LeetCode/tree/master/2402-meeting-rooms-iii) |
 | [3433-count-mentions-per-user](https://github.com/thasneem04/LeetCode/tree/master/3433-count-mentions-per-user) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/thasneem04/LeetCode/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/thasneem04/LeetCode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
@@ -255,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2054-two-best-non-overlapping-events](https://github.com/thasneem04/LeetCode/tree/master/2054-two-best-non-overlapping-events) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/thasneem04/LeetCode/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/thasneem04/LeetCode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
+| [2402-meeting-rooms-iii](https://github.com/thasneem04/LeetCode/tree/master/2402-meeting-rooms-iii) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/thasneem04/LeetCode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3074-apple-redistribution-into-boxes](https://github.com/thasneem04/LeetCode/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/thasneem04/LeetCode/tree/master/3075-maximize-happiness-of-selected-children) |
@@ -454,4 +458,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2054-two-best-non-overlapping-events](https://github.com/thasneem04/LeetCode/tree/master/2054-two-best-non-overlapping-events) |
+| [2402-meeting-rooms-iii](https://github.com/thasneem04/LeetCode/tree/master/2402-meeting-rooms-iii) |
 <!---LeetCode Topics End-->
