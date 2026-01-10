@@ -3,7 +3,8 @@ class Solution {
 
         String res = s.substring(0,k);
 
-        String sc = new StringBuilder(res).reverse().toString();
+        StringBuilder sc = new StringBuilder(res).reverse();
+        sc.toString();
 
         return sc + s.substring(k);
         
