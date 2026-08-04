@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2608-count-the-digits-that-divide-a-number](https://github.com/thasneem04/LeetCode/tree/master/2608-count-the-digits-that-divide-a-number) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/thasneem04/LeetCode/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2752-sum-multiples](https://github.com/thasneem04/LeetCode/tree/master/2752-sum-multiples) |
+| [2769-find-the-maximum-achievable-number](https://github.com/thasneem04/LeetCode/tree/master/2769-find-the-maximum-achievable-number) |
 | [2812-find-the-maximum-achievable-number](https://github.com/thasneem04/LeetCode/tree/master/2812-find-the-maximum-achievable-number) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/thasneem04/LeetCode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/thasneem04/LeetCode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
